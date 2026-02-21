@@ -4,7 +4,7 @@ I'm a Full Stack Dev & DevOps Engineer with a UI/UX background and 7 years of bu
 
 :mailbox: Looking for me!
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/S_herdeybayor) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/herdeybayor/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/S_herdeybayor/) [![Dribbble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/herdeybayor)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xsherifdev) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xsherifdev/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/S_herdeybayor/) [![Dribbble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/herdeybayor)
 
 #### DevOps Skills ⚙️
 
@@ -40,10 +40,10 @@ Portfolio: https://dub.sh/herdeybayor
 
 #### Profile Visits
 
-![visitors](https://komarev.com/ghpvc/?username=herdeybayor)
+![visitors](https://komarev.com/ghpvc/?username=0xsherifdev)
 
 #### Github Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=herdeybayor&count_private=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=0xsherifdev&count_private=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=herdeybayor)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=0xsherifdev)](https://git.io/streak-stats)
