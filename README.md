@@ -1,6 +1,6 @@
 ## Hello, I'm Sherifdeen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="hi">
 
-I'm a Full Stack Dev & DevOps Engineer with a UI/UX background and 10 years of building experience.
+I'm a Full Stack Dev & DevOps Engineer with a UI/UX background.
 
 :mailbox: Looking for me!
 
@@ -32,7 +32,7 @@ I'm a Full Stack Dev & DevOps Engineer with a UI/UX background and 10 years of b
 
 #### Work
 
-Portfolio: https://dub.sh/herdeybayor
+Portfolio: [https://0xsherif.dev](https://0xsherif.dev)
 
 **DevOps Projects:** Infrastructure automation, CI/CD pipelines, containerized applications, cloud infrastructure management, Kubernetes clusters
 
